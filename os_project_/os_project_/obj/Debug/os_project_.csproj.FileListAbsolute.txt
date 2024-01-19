@@ -1,0 +1,13 @@
+H:\Material C++\Visual\VS projects\os_project_\os_project_\bin\Debug\os_project_.exe.config
+H:\Material C++\Visual\VS projects\os_project_\os_project_\obj\Debug\os_project_.csprojResolveAssemblyReference.cache
+H:\Material C++\Visual\VS projects\os_project_\os_project_\bin\Debug\os_project_.exe
+H:\Material C++\Visual\VS projects\os_project_\os_project_\bin\Debug\os_project_.pdb
+H:\Material C++\Visual\VS projects\os_project_\os_project_\obj\Debug\os_project_.exe
+H:\Material C++\Visual\VS projects\os_project_\os_project_\obj\Debug\os_project_.pdb
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\bin\Debug\os_project_.exe.config
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\obj\Debug\os_project_.exe
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\obj\Debug\os_project_.pdb
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\bin\Debug\os_project_.exe
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\bin\Debug\os_project_.pdb
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\obj\Debug\os_project_.csproj.AssemblyReference.cache
+C:\Users\ZeyadaNet\Downloads\Compressed\os_project_\os_project_\obj\Debug\os_project_.csproj.CoreCompileInputs.cache
